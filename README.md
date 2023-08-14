@@ -3,7 +3,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
-  - [Creating a Live SOC / Honeynet in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a Live SOC / Honeynet in Azure](https://github.com/Dwsilky/Azure-SOC)
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   
