@@ -4,8 +4,8 @@
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/Dwsilky/Azure-SOC)
-- <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/Dwsilky/PowerShell)
+- <b>Active Directory Administration w/ PowerShell Bulk User Creation</b>
+  - [PowerShell Bulk User Creation](https://github.com/Dwsilky/PowerShell)
   
 
 <h2> 🤳 Connect with me:</h2>
